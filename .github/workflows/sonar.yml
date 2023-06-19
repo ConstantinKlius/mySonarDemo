@@ -1,4 +1,4 @@
-name: Sonar
+name: SonarGo
 on:
   workflow_dispatch:
   push:
